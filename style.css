@@ -1,0 +1,236 @@
+ .firstNav{
+    display: flex;
+    gap: 40px;
+    padding: 16px;
+    background-color: #f7f6f4;
+    
+}
+.anchorTags{
+    text-decoration: none;
+}
+.call{
+    padding-left: 400px;
+    text-decoration: none;
+}
+.nigeria{
+    border-radius: 20px;
+}
+.secondHeader{
+    background-color: #ece8d9;
+   
+}
+.product{
+justify-content: space-between;
+display: flex;
+gap: 40px;
+
+}
+.become{
+    text-decoration: none;
+    gap: 10px;
+
+}
+.space{
+    gap: 40px;
+}
+.quality{
+    display: flex;
+    justify-content: space-between;
+}
+.print{
+    color: #323232;
+    font-size: 60px;
+    padding-left: 100px;
+}
+.ship{
+    color: #708095;
+    font-size: 30px;
+    padding-left: 100px;
+    font-family: sans-serif;
+}
+.what{
+    padding-left: 100px;
+    font-family: sans-serif;
+
+}
+.input{
+    padding: 30px;
+    margin: 0px 0px 30px 100px;
+    width: 80%;
+    border: none;
+}
+.card{
+    height:50vh;
+    padding-top: 50px;
+}
+.marquee{
+    background-color:#f3b1cd ;
+    height: 10vh;
+}
+.popular{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+.red{
+    color: #d87f81;
+    font-size: 20px;
+    padding-right: 60px;
+}
+.blue{
+    color: #384a62;
+    padding:  0px 150px;
+}
+.pictures{
+    display: flex;
+    gap: 20px;
+    padding-left: 150px;
+}
+.two{
+   width: 20%; 
+   border: 0.5px solid #d5c6c6;
+   clear: both;
+   display: table;
+   border-radius: 0px;
+   border-radius: 0px;
+   border-radius: 0px;
+  
+   
+}
+.sided:hover{
+  transform:scale(0.9 );  
+}
+.sided{
+    width: 100%;
+    transition: 0.5s all ease-in-out;
+
+}
+.business{
+    padding-left: 30px;
+    color: #343c4f;
+}
+.starting{
+    color: #666;
+    font-size: 13px;
+    padding-left: 30px;
+}
+.start{
+    color: #666;
+    font-size: 20px;
+    padding-left: 30px;
+}
+.Brownse{
+    background-color: #d77f81;
+    border: none;
+    border-radius: 2px;
+    margin: 0px 0PX 10PX  30px;
+    color: white;
+    padding: 10PX;
+    font-size: 17px;
+}
+.flyer{
+    width: 100%;
+    height: 30vh;
+} 
+.social :hover{
+      transform: scale(0.9); 
+}
+.social{
+    width: 100%;
+    height: 30vh;
+     transition: 0.5s all ease-in-out;
+}
+.post{
+    display: flex;
+    gap: 20px;
+    padding-left: 150px;
+    margin-top: 30px;
+}
+.online{
+    padding-left: 150px;
+    margin-top: 60px;
+}
+.shop{
+    font-size: 35px;
+    color: #384a62;
+}
+.services{
+    font-size: 30px;
+    color: #587596;
+}
+.customer{
+    background-color: #edf6fd;
+    padding: 0px 150px 50px 150px;
+}
+.say{
+    color:#384a62;
+}
+.report{
+    display: flex;
+    gap: 30px;
+    margin-top: 30px;
+
+}
+.amina{
+    padding-left: 40px;
+    background-color: white;
+    width: 30%;
+}
+.now{
+    color: #666;
+    font-size: large;
+}
+.white{
+    display: flex;
+   
+}
+.back{
+    background-color: white;
+    padding-left: 150px;
+}
+.your{
+    color: #666;
+}
+.flex{
+    display: flex;
+    gap: 70px;
+}
+.bored{
+    background-color: #f7f6f4;
+    padding: 50px 150px;
+}
+.happy{
+    display: flex;
+gap: 100px;
+}
+.last{
+    background-color: #384a62;
+}
+.enjoy{
+    padding: 50px 150px;
+    display: flex;
+    gap: 120px;
+}
+.cotact{
+    list-style-type: none;
+    color: white;
+    font-family: sans-serif;
+    font-size: 15px;
+    line-height: 30px;
+}
+.img{
+    height:2vh;
+}
+.finish{
+    background-color: #cbcac8;
+}
+.copy{
+    margin: 0px;
+    padding: 20px;
+}
+
+/* @media screen and (max-width: 798px) {
+    .two { display: block;
+ }
+  } */
+    
